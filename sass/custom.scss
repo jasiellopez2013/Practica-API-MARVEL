@@ -1,0 +1,36 @@
+$dark:#231F20;
+$primary:#1e2126;
+
+@import "../css/node_modules/bootstrap/scss/bootstrap";
+
+body {
+    font-size: 1rem;
+    color: white;
+}
+
+h1{
+    font-family: 'Alumni Sans Inline One';
+    font-size: 4rem;
+}
+
+.form-comtrol{
+    min-height: 3.125rem;
+    line-height:initial;
+}
+
+.barra{
+    height: 130px;
+    min-height: 130px;
+    overflow-y: auto;
+}
+
+.per{
+    height: 100px;
+    min-height: 100px;
+    overflow-y: auto;
+}
+
+p{
+    font-size: .7rem;
+}
+
